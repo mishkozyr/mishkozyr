@@ -8,7 +8,7 @@ hello!:shipit: i'm a student and aspiring web developer with a passion for php. 
 
 | | |
 |-|-|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishkozyr&show_icons=true&count_private=true&hide=prs&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishkozyr&layout=compact&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishkozyr&show_icons=true&count_private=true&hide=prs&hide_rank=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishkozyr&layout=compact&theme=radical) |
 
 
 ### :hammer_and_wrench: my projects

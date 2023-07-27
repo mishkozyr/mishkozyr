@@ -2,7 +2,7 @@
 
 ### aspiring web developer | php enthusiast | laravel, alpine.js, livewire, tailwind lover
 
-hello!:shipit: i'm a student and aspiring web developer with a passion for php. currently, i'm focused on learning laravel, alpine.js, livewire, and tailwind to build awesome web applications. i'm also dedicated to improving my english language skills.
+hello!:shipit: i'm a student and aspiring web developer with a passion for php. currently, i'm focused on learning laravel, alpine.js, livewire and tailwind to build awesome web applications. i'm also dedicated to improving my english language skills.
 
 ## :rocket: my activity and top languages
 

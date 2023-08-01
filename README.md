@@ -12,10 +12,13 @@ hello!:shipit: i'm a student and aspiring web developer with a passion for php. 
 
 
 ### :hammer_and_wrench: my projects
-currently, i don't have any public projects in this repository. but don't worry, exciting projects will be coming soon! stay tuned!
+
+- [PHP OOP CRUD Auth](https://github.com/mishkozyr/php-oop-crud-auth) - a simple crud application implemented in pure php and oop, along with user registration and authentication functionality. (includes a bit of tailwindcss)
+
+new projects will also appear here as they are created
 
 ### :dart: my plans
-- master php, javascript, laravel, alpine.js, livewire, and tailwind.
+- master php, javascript, laravel, alpine.js, livewire, and tailwindcss.
 - gain real-world experience in commercial web development and team collaboration.
 - improve my english language skills to enhance communication and collaboration with the global developer community.
 

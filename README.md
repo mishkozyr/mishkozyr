@@ -2,7 +2,7 @@
 
 ## :computer: technologies & skills
 - php (laravel, livewire), javascript (alpinejs), html, css (tailwindcss)
-- knowledgeable in databases including mysql
+- mysql, postgresql
 - experienced with git and version control management
 
 ## :rocket: what i do

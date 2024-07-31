@@ -1,4 +1,4 @@
-# hi there! :wave: i'm misha
+# hi there! :wave:
 
 ## :computer: technologies & skills
 - **php** (laravel, livewire), **javascript** (alpinejs), **html**, **css** (tailwindcss)
